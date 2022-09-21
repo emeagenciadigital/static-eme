@@ -9,8 +9,8 @@
 
 <channel>
 	<title>EME GROWTH AGENCY</title>
-	<atom:link href="https://github.e-me.co/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.e-me.co/</link>
+	<atom:link href="https://e-me.co/feed/" rel="self" type="application/rss+xml" />
+	<link>https://e-me.co/</link>
 	<description>Crecemos Ventas</description>
 	<lastBuildDate>Wed, 21 Sep 2022 01:22:07 +0000</lastBuildDate>
 	<language>es-CO</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>¡Hola mundo!</title>
-		<link>https://github.e-me.co/2022/09/20/hola-mundo/</link>
-					<comments>https://github.e-me.co/2022/09/20/hola-mundo/#comments</comments>
+		<link>https://e-me.co/2022/09/20/hola-mundo/</link>
+					<comments>https://e-me.co/2022/09/20/hola-mundo/#comments</comments>
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Wed, 21 Sep 2022 01:22:07 +0000</pubDate>
 				<category><![CDATA[Sin categoría]]></category>
-		<guid isPermaLink="false">https://github.e-me.co/?p=1</guid>
+		<guid isPermaLink="false">https://e-me.co/?p=1</guid>
 
 					<description><![CDATA[Bienvenido(a) a WordPress. Esta es tu primera entrada. Edítala o bórrala ¡y comienza a publicar!]]></description>
 										<content:encoded><![CDATA[
 <p>Bienvenido(a) a WordPress. Esta es tu primera entrada. Edítala o bórrala ¡y comienza a publicar!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.e-me.co/2022/09/20/hola-mundo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://e-me.co/2022/09/20/hola-mundo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
