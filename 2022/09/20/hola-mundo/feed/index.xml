@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: ¡Hola mundo!	</title>
-	<atom:link href="https://github.e-me.co/2022/09/20/hola-mundo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.e-me.co/2022/09/20/hola-mundo/</link>
+	<atom:link href="https://e-me.co/2022/09/20/hola-mundo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://e-me.co/2022/09/20/hola-mundo/</link>
 	<description>Crecemos Ventas</description>
 	<lastBuildDate>Wed, 21 Sep 2022 01:22:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Por: Un comentarista de WordPress		</title>
-		<link>https://github.e-me.co/2022/09/20/hola-mundo/#comment-1</link>
+		<link>https://e-me.co/2022/09/20/hola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
 		<pubDate>Wed, 21 Sep 2022 01:22:07 +0000</pubDate>
-		<guid isPermaLink="false">https://github.e-me.co/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://e-me.co/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hola, esto es un comentario.
 Para empezar a moderar, editar y borrar comentarios, por favor, visita en el escritorio la pantalla de comentarios.
