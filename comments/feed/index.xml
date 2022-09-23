@@ -11,29 +11,11 @@
 	<atom:link href="https://e-me.co/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://e-me.co/</link>
 	<description>Crecemos Ventas</description>
-	<lastBuildDate>Wed, 21 Sep 2022 01:22:07 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Sep 2022 13:30:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
-	<item>
-		<title>
-		Comentario en ¡Hola mundo! por Un comentarista de WordPress		</title>
-		<link>https://e-me.co/hola-mundo/#comment-1</link>
-
-		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
-		<pubDate>Wed, 21 Sep 2022 01:22:07 +0000</pubDate>
-		<guid isPermaLink="false">https://e-me.co/?p=1#comment-1</guid>
-
-					<description><![CDATA[Hola, esto es un comentario.
-Para empezar a moderar, editar y borrar comentarios, por favor, visita en el escritorio la pantalla de comentarios.
-Los avatares de los comentaristas provienen de &lt;a href=&quot;https://es.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hola, esto es un comentario.<br />
-Para empezar a moderar, editar y borrar comentarios, por favor, visita en el escritorio la pantalla de comentarios.<br />
-Los avatares de los comentaristas provienen de <a href="https://es.gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
