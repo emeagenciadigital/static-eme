@@ -12,7 +12,7 @@
 	<atom:link href="https://e-me.co/feed/" rel="self" type="application/rss+xml" />
 	<link>https://e-me.co/</link>
 	<description>Crecemos Ventas</description>
-	<lastBuildDate>Wed, 21 Sep 2022 01:22:07 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Sep 2022 13:30:15 +0000</lastBuildDate>
 	<language>es-CO</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,25 +27,5 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>¡Hola mundo!</title>
-		<link>https://e-me.co/hola-mundo/</link>
-					<comments>https://e-me.co/hola-mundo/#comments</comments>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Wed, 21 Sep 2022 01:22:07 +0000</pubDate>
-				<category><![CDATA[Sin categoría]]></category>
-		<guid isPermaLink="false">https://e-me.co/?p=1</guid>
-
-					<description><![CDATA[Bienvenido(a) a WordPress. Esta es tu primera entrada. Edítala o bórrala ¡y comienza a publicar!]]></description>
-										<content:encoded><![CDATA[
-<p>Bienvenido(a) a WordPress. Esta es tu primera entrada. Edítala o bórrala ¡y comienza a publicar!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://e-me.co/hola-mundo/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
