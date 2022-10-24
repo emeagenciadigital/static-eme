@@ -11,11 +11,11 @@
 	<atom:link href="https://e-me.co/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://e-me.co/</link>
 	<description>Crecemos Ventas</description>
-	<lastBuildDate>Thu, 13 Oct 2022 22:43:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Oct 2022 21:18:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
