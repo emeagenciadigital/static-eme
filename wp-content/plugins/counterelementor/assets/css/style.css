@@ -1,0 +1,8 @@
+.simple-counter-container {
+	display:block;
+	text-align:center;
+}
+.simple-counter-container .simple-counter {
+	display:inline-block;
+	line-height:1;
+}
