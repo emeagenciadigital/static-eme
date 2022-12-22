@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://e-me.co/tienda/</loc>
-		<lastmod>2022-12-22T14:58:20+00:00</lastmod>
+		<lastmod>2022-12-22T20:11:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://e-me.co/producto/storytelling-como-herramienta-para-crecer-ventas/</loc>
@@ -48,9 +48,9 @@
 	</url>
 	<url>
 		<loc>https://e-me.co/producto/como-estructurar-landing-pages/</loc>
-		<lastmod>2022-12-22T14:58:20+00:00</lastmod>
+		<lastmod>2022-12-22T20:11:18+00:00</lastmod>
 		<image:image>
-			<image:loc>https://d37u8uvdesnp85.cloudfront.net/wp-content/uploads/2022/12/22095240/Mockup-2-scaled.webp</image:loc>
+			<image:loc>https://d37u8uvdesnp85.cloudfront.net/wp-content/uploads/2022/12/22151106/Enmascarar-new-e-e.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
