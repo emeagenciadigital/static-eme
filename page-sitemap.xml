@@ -2,9 +2,12 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://e-me.co/</loc>
-		<lastmod>2022-12-26T19:35:55+00:00</lastmod>
+		<lastmod>2022-12-26T22:23:21+00:00</lastmod>
 		<image:image>
-			<image:loc>https://e-me.co/wp-content/uploads/2022/12/Grupo-6927.png</image:loc>
+			<image:loc>https://e-me.co/wp-content/uploads/2022/12/Grupo-7068-1024x313.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2022/12/CRECIMIENTO_HOME_Mesa_de_trabajo_1-1024x415.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://e-me.co/wp-content/uploads/2022/12/Grupo-6545.png</image:loc>
@@ -156,7 +159,7 @@
 	</url>
 	<url>
 		<loc>https://e-me.co/recursos/</loc>
-		<lastmod>2022-12-26T21:17:13+00:00</lastmod>
+		<lastmod>2022-12-26T22:19:02+00:00</lastmod>
 		<image:image>
 			<image:loc>https://e-me.co/wp-content/uploads/2022/12/Grupo-7068-1024x313.webp</image:loc>
 		</image:image>
