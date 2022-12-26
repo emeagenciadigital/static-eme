@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//static.e-me.co/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://e-me.co/categoria-producto/sin-categorizar/</loc>
+		<loc>https://e-me.co/categoria-recursos/sin-categorizar/</loc>
 		<lastmod>2022-12-19T15:07:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://e-me.co/categoria-producto/copywriting/</loc>
+		<loc>https://e-me.co/categoria-recursos/copywriting/</loc>
 		<lastmod>2022-12-22T14:50:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://e-me.co/categoria-producto/recursos/</loc>
+		<loc>https://e-me.co/categoria-recursos/recursos/</loc>
 		<lastmod>2022-12-20T15:18:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://e-me.co/categoria-producto/web/</loc>
+		<loc>https://e-me.co/categoria-recursos/web/</loc>
 		<lastmod>2022-12-22T20:11:18+00:00</lastmod>
 	</url>
 </urlset>
