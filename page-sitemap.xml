@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://e-me.co/</loc>
-		<lastmod>2022-12-26T22:23:21+00:00</lastmod>
+		<lastmod>2022-12-27T16:08:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://e-me.co/wp-content/uploads/2022/12/Grupo-7068-1024x313.webp</image:loc>
 		</image:image>
@@ -81,8 +81,31 @@
 		<lastmod>2022-09-21T14:22:06+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://e-me.co/tienda/</loc>
+		<lastmod>2022-12-16T20:38:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://e-me.co/carrito/</loc>
+		<lastmod>2022-12-16T20:38:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://e-me.co/finalizar-compra/</loc>
+		<lastmod>2022-12-16T20:38:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://e-me.co/mi-cuenta/</loc>
+		<lastmod>2022-12-16T20:38:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://e-me.co/recursos/</loc>
+		<lastmod>2022-12-26T22:19:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2022/12/Grupo-7068-1024x313.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://e-me.co/marketing/</loc>
-		<lastmod>2022-12-05T19:32:09+00:00</lastmod>
+		<lastmod>2022-12-27T14:21:10+00:00</lastmod>
 		<image:image>
 			<image:loc>https://e-me.co/wp-content/uploads/2022/10/1.-la-herramienta-de-oro-768x667.webp</image:loc>
 		</image:image>
@@ -136,32 +159,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://e-me.co/wp-content/uploads/2022/10/Opcion2-1024x482.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://e-me.co/wp-content/uploads/2022/10/Enmascarar-grupo-71.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://e-me.co/tienda/</loc>
-		<lastmod>2022-12-16T20:38:41+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://e-me.co/carrito/</loc>
-		<lastmod>2022-12-16T20:38:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://e-me.co/finalizar-compra/</loc>
-		<lastmod>2022-12-16T20:38:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://e-me.co/mi-cuenta/</loc>
-		<lastmod>2022-12-16T20:38:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://e-me.co/recursos/</loc>
-		<lastmod>2022-12-26T22:19:02+00:00</lastmod>
-		<image:image>
-			<image:loc>https://e-me.co/wp-content/uploads/2022/12/Grupo-7068-1024x313.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
