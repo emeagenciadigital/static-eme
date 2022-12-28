@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//static.e-me.co/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://e-me.co/categoria-recursos/sin-categorizar/</loc>
-		<lastmod>2022-12-19T15:07:44+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://e-me.co/categoria-recursos/copywriting/</loc>
-		<lastmod>2022-12-22T14:50:22+00:00</lastmod>
+		<lastmod>2022-12-28T15:46:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://e-me.co/categoria-recursos/growth-marketing/</loc>
-		<lastmod>2022-12-26T21:44:48+00:00</lastmod>
+		<lastmod>2022-12-28T15:16:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://e-me.co/categoria-recursos/recursos/</loc>
-		<lastmod>2022-12-19T14:11:43+00:00</lastmod>
+		<loc>https://e-me.co/categoria-recursos/storytelling/</loc>
+		<lastmod>2022-12-28T15:22:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://e-me.co/categoria-recursos/web/</loc>
