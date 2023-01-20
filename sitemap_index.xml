@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//static.e-me.co/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://e-me.co/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://e-me.co/post-sitemap.xml</loc>
@@ -6,7 +6,7 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://e-me.co/page-sitemap.xml</loc>
-		<lastmod>2023-01-12T19:51:07+00:00</lastmod>
+		<lastmod>2023-01-20T22:28:35+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://e-me.co/product-sitemap.xml</loc>
