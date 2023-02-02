@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://e-me.co/</loc>
-		<lastmod>2023-01-24T15:39:44+00:00</lastmod>
+		<lastmod>2023-01-31T15:19:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://e-me.co/wp-content/uploads/2022/12/Grupo-6545.png</image:loc>
 		</image:image>
@@ -67,6 +67,15 @@
 			<image:loc>https://e-me.co/wp-content/uploads/2022/12/Grupo-5410.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Iconos-servicios_Mesa-de-trabajo-1-copia-16.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Iconos-servicios_Mesa-de-trabajo-1-copia-15.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Iconos-servicios_Mesa-de-trabajo-1-copia-17.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>https://e-me.co/wp-content/uploads/2022/10/Enmascarar-grupo-71.webp</image:loc>
 		</image:image>
 	</url>
@@ -92,7 +101,7 @@
 	</url>
 	<url>
 		<loc>https://e-me.co/marketing/</loc>
-		<lastmod>2023-01-23T20:20:02+00:00</lastmod>
+		<lastmod>2023-01-30T20:59:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://e-me.co/wp-content/uploads/2022/10/1.-la-herramienta-de-oro-768x667.webp</image:loc>
 		</image:image>
@@ -150,7 +159,7 @@
 	</url>
 	<url>
 		<loc>https://e-me.co/recursos/</loc>
-		<lastmod>2023-01-24T17:14:20+00:00</lastmod>
+		<lastmod>2023-01-31T14:37:05+00:00</lastmod>
 		<image:image>
 			<image:loc>https://e-me.co/wp-content/uploads/2022/10/Grupo-5388.webp</image:loc>
 		</image:image>
@@ -285,6 +294,86 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://e-me.co/wp-content/uploads/2022/09/Grupo-5585-LOGOBLANCK.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://e-me.co/marketing-2/</loc>
+		<lastmod>2023-01-31T16:51:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Marketing-emememe.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Grupo-8274.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://e-me.co/contenido/</loc>
+		<lastmod>2023-01-31T17:04:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Grupo-8278@2x-2-1024x251.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Grupo-7108@2x-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://e-me.co/e-commerce/</loc>
+		<lastmod>2023-01-31T21:15:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Grupo-7108.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Grupo-7108-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Grupo-8277.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Grupo-8280@2x-1024x125.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Grupo-8278@2x-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://e-me.co/branding/</loc>
+		<lastmod>2023-02-01T15:08:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Grupo-8276.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Grupo-7108@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Grupo-8277.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Grupo-8278@2x-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/01/Grupo-8278@2x-1024x130.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://e-me.co/dream-team/</loc>
+		<lastmod>2023-02-02T16:11:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/02/Grupo-8273.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/02/Grupo-8273.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/02/Grupo-8273.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/02/dream-team_Mesa-de-trabajo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/02/dream-team_Mesa-de-trabajo-1-copia.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://e-me.co/wp-content/uploads/2023/02/dream-team_Mesa-de-trabajo-1-copia-2p.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
