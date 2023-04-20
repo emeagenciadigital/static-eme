@@ -9,8 +9,8 @@
 
 <channel>
 	<title>EME GROWTH AGENCY</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Crecemos Ventas</description>
 	<lastBuildDate>Wed, 19 Apr 2023 22:20:57 +0000</lastBuildDate>
 	<language>es-CO</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>https://d37u8uvdesnp85.cloudfront.net/wp-content/uploads/2022/09/21130432/Grupo-5388-150x37.png</url>
 	<title>EME GROWTH AGENCY</title>
-	<link>./../index.html</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
