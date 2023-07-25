@@ -997,7 +997,7 @@
   width: 32px;
   height: 32px;
   display: block;
-  background: url("/wp-content/plugins/jet-tabs/assets/images/spinner-32.svg") no-repeat;
+  background: url("https://e-me.co/wp-content/plugins/jet-tabs/assets/images/spinner-32.svg") no-repeat;
 }
 .jet-image-accordion.jet-image-accordion-vertical-orientation .jet-image-accordion__list {
   -webkit-box-orient: horizontal;

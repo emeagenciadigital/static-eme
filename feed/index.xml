@@ -9,10 +9,10 @@
 
 <channel>
 	<title>EME GROWTH AGENCY</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://e-me.co/feed/" rel="self" type="application/rss+xml" />
+	<link>https://e-me.co/</link>
 	<description>Crecemos Ventas</description>
-	<lastBuildDate>Fri, 21 Jul 2023 17:19:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Jul 2023 22:24:33 +0000</lastBuildDate>
 	<language>es-CO</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/05/cropped-faviconweb1-32x32.png</url>
+	<url>https://e-me.co/wp-content/uploads/2023/05/cropped-faviconweb1-32x32.png</url>
 	<title>EME GROWTH AGENCY</title>
-	<link>/</link>
+	<link>https://e-me.co/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
