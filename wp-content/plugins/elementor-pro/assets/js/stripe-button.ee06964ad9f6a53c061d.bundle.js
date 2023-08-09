@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.14.0 - 26-06-2023 */
+/*! elementor-pro - v3.15.0 - 31-07-2023 */
 (self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["stripe-button"],{
 
 /***/ "../modules/payments/assets/js/frontend/handlers/stripe-button.js":

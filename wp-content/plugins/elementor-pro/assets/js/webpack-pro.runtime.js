@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.14.0 - 26-06-2023 */
+/*! elementor-pro - v3.15.0 - 31-07-2023 */
 /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({});
@@ -93,17 +93,17 @@
 /******/ 			if (chunkId === "hotspot") return "" + chunkId + ".d43ef85fb9e56c4414f4.bundle.js";
 /******/ 			if (chunkId === "form") return "form.1161490412c4fa9ebfc6.bundle.js";
 /******/ 			if (chunkId === "gallery") return "" + chunkId + ".1573e391054ea0977a1f.bundle.js";
-/******/ 			if (chunkId === "lottie") return "" + chunkId + ".e9e13c1085c8ebcf9e08.bundle.js";
+/******/ 			if (chunkId === "lottie") return "" + chunkId + ".630a998405ebf4420b6f.bundle.js";
 /******/ 			if (chunkId === "nav-menu") return "" + chunkId + ".ded2ef1815c81841b6b8.bundle.js";
 /******/ 			if (chunkId === "popup") return "" + chunkId + ".397c2882052136db7ee0.bundle.js";
-/******/ 			if (chunkId === "load-more") return "" + chunkId + ".9ad2efa307d3ada91e86.bundle.js";
+/******/ 			if (chunkId === "load-more") return "" + chunkId + ".8f98bed743a24a6c0d3a.bundle.js";
 /******/ 			if (chunkId === "posts") return "" + chunkId + ".72468c8555693b196f98.bundle.js";
 /******/ 			if (chunkId === "portfolio") return "" + chunkId + ".47c0bf4b3576c66f1b1a.bundle.js";
-/******/ 			if (chunkId === "share-buttons") return "" + chunkId + ".a43f0e61533a54c4cf9f.bundle.js";
+/******/ 			if (chunkId === "share-buttons") return "" + chunkId + ".c958afb760bce7436ba0.bundle.js";
 /******/ 			if (chunkId === "slides") return "" + chunkId + ".0a31b946f157107ba4a2.bundle.js";
 /******/ 			if (chunkId === "social") return "" + chunkId + ".68fec39648b9a03c6275.bundle.js";
 /******/ 			if (chunkId === "table-of-contents") return "" + chunkId + ".99cfd4713b3327d9b782.bundle.js";
-/******/ 			if (chunkId === "archive-posts") return "" + chunkId + ".f09f53ca5b8d6f9bbe13.bundle.js";
+/******/ 			if (chunkId === "archive-posts") return "" + chunkId + ".2d3a4fa58002c7735240.bundle.js";
 /******/ 			if (chunkId === "search-form") return "" + chunkId + ".416aa432fdfe2bcfe9b5.bundle.js";
 /******/ 			if (chunkId === "woocommerce-menu-cart") return "" + chunkId + ".cecfa624e2d23a156519.bundle.js";
 /******/ 			if (chunkId === "woocommerce-purchase-summary") return "" + chunkId + ".40bd4441fdc065587324.bundle.js";
@@ -112,11 +112,12 @@
 /******/ 			if (chunkId === "woocommerce-my-account") return "" + chunkId + ".355b00c58fb73e92a0bb.bundle.js";
 /******/ 			if (chunkId === "woocommerce-notices") return "" + chunkId + ".d803ba1deaf96eb007fc.bundle.js";
 /******/ 			if (chunkId === "product-add-to-cart") return "" + chunkId + ".39fbaae6c856c483b4b4.bundle.js";
-/******/ 			if (chunkId === "loop") return "loop.1d4e16e70fd7e6b89f96.bundle.js";
-/******/ 			if (chunkId === "loop-carousel") return "" + chunkId + ".bb1d12b699805ace419f.bundle.js";
+/******/ 			if (chunkId === "loop") return "loop.cfa59b67362d5bf08739.bundle.js";
+/******/ 			if (chunkId === "loop-carousel") return "" + chunkId + ".8c8c442ebf9839e07d4e.bundle.js";
 /******/ 			if (chunkId === "mega-menu") return "" + chunkId + ".6a41b17ca3362b2df95d.bundle.js";
 /******/ 			if (chunkId === "mega-menu-stretch-content") return "" + chunkId + ".749b8c1dc8bd8c9b37d2.bundle.js";
-/******/ 			if (chunkId === "nested-carousel") return "" + chunkId + ".ccfe690d939a97e56aba.bundle.js";
+/******/ 			if (chunkId === "nested-carousel") return "" + chunkId + ".bd618e5f000147859de7.bundle.js";
+/******/ 			if (chunkId === "taxonomy-filter") return "" + chunkId + ".f2f989f4cb7ee7582ee7.bundle.js";
 /******/ 			// return url for filenames based on template
 /******/ 			return undefined;
 /******/ 		};
