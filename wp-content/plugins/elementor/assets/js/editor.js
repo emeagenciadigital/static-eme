@@ -1,4 +1,4 @@
-/*! elementor - v3.16.0 - 13-09-2023 */
+/*! elementor - v3.16.0 - 20-09-2023 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -13806,6 +13806,18 @@ ControlGapItemView = ControlDimensionsView.extend({
       values[conversion.old_key] = parseInt(values[conversion.new_key]);
     }
     this.setSettingsModel(values);
+  },
+  getControlValue: function getControlValue(key) {
+    var valuesUpdated = ControlDimensionsView.prototype.getControlValue.apply(this, arguments);
+    if (this.shouldUpdateGapsValues(valuesUpdated)) {
+      valuesUpdated.column = '' + valuesUpdated.size;
+      valuesUpdated.row = '' + valuesUpdated.size;
+      valuesUpdated.isLinked = true;
+    }
+    return valuesUpdated;
+  },
+  shouldUpdateGapsValues: function shouldUpdateGapsValues(valuesUpdated) {
+    return !!valuesUpdated.hasOwnProperty('size') && '' !== valuesUpdated.size && !valuesUpdated.hasOwnProperty('column');
   }
 });
 module.exports = ControlGapItemView;
@@ -38561,6 +38573,12 @@ ControlsCSSParser = elementorModules.ViewModule.extend({
           if (_this3.unitHasCustomSelector(control, value)) {
             cssProperty = control.unit_selectors_dictionary[value.unit];
           }
+          if (_this3.shouldDoUpgradeMap(control, value)) {
+            var _control$upgrade_conv;
+            (_control$upgrade_conv = control.upgrade_conversion_map) === null || _control$upgrade_conv === void 0 ? void 0 : _control$upgrade_conv.new_keys.forEach(function (key) {
+              value[key] = '' + value[control.upgrade_conversion_map.old_key];
+            });
+          }
           outputCssProperty = cssProperty.replace(/{{(?:([^.}]+)\.)?([^}| ]*)(?: *\|\| *(?:([^.}]+)\.)?([^}| ]*) *)*}}/g, function (originalPhrase, controlName, placeholder, fallbackControlName, fallbackValue) {
             var externalControlMissing = controlName && !controls[controlName];
             var parsedValue = '';
@@ -38642,6 +38660,9 @@ ControlsCSSParser = elementorModules.ViewModule.extend({
   },
   unitHasCustomSelector: function unitHasCustomSelector(control, value) {
     return control.unit_selectors_dictionary && undefined !== control.unit_selectors_dictionary[value.unit];
+  },
+  shouldDoUpgradeMap: function shouldDoUpgradeMap(control, value) {
+    return control.upgrade_conversion_map && !!value.hasOwnProperty(control.upgrade_conversion_map.old_key) && '' !== value[control.upgrade_conversion_map.old_key] && !value.hasOwnProperty(control.upgrade_conversion_map.new_keys[0]);
   },
   parsePropertyPlaceholder: function parsePropertyPlaceholder(control, value, controls, values, placeholder, parserControlName) {
     if (parserControlName) {
