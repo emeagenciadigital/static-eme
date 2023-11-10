@@ -42,6 +42,8 @@
 		initAttachedPopups: function ( $scope ) {
 			$scope = $scope || $( 'body' );
 
+			console.log( $scope );
+
 			$scope.find( '[data-popup-instance]' ).each( ( index, el ) => {
 				let $this = $( el ),
 					popupId = $this.data( 'popup-instance' ) || 'none',
@@ -52,7 +54,7 @@
 					};
 
 				if ( $this.hasClass( 'jet-popup-attach-event-inited' ) ) {
-					return;
+					return false;
 				}
 
 				$this.addClass( 'jet-popup-attach-event-inited' );
@@ -506,8 +508,7 @@
 
 				if ( popupUniqId == popupId ) {
 					self.hidePopup( {
-						popupId: popupUniqId,
-						constantly: constantly,
+						constantly: constantly
 					} );
 				}
 			});
@@ -523,13 +524,11 @@
 		 * @return {[type]} [description]
 		 */
 		self.initCloseEvent = function() {
-
 			$popup.on( 'click', '.jet-popup__close-button', function( event ) {
 				var target = event.currentTarget;
 
 				self.hidePopup( {
-					constantly: popupSettings['show-once'],
-					popupId: popupSettings['jet-popup-id']
+					constantly: popupSettings['show-once']
 				} );
 			} );
 
@@ -538,8 +537,7 @@
 					var target = event.currentTarget;
 
 					self.hidePopup( {
-						constantly: popupSettings['show-once'],
-						popupId: popupSettings['jet-popup-id']
+						constantly: popupSettings['show-once']
 					} );
 				} );
 			}
@@ -549,8 +547,7 @@
 
 				if ( 27 === key && isOpen ) {
 					self.hidePopup( {
-						constantly: popupSettings['show-once'],
-						popupId: popupSettings['jet-popup-id']
+						constantly: popupSettings['show-once']
 					} );
 				}
 			} );
@@ -994,7 +991,7 @@
 							if ( popupSettings['prevent-scrolling'] && !$( '.jet-popup--show-state' )[0] ) {
 								$( 'body' ).removeClass( 'jet-popup-prevent-scroll' );
 							}
-							console.log(popupData)
+
 							// After Popup Hide Action
 							$window.trigger( 'jet-popup/hide-event/after-hide', {
 								self: self,
