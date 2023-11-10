@@ -1,0 +1,56 @@
+.full_screen{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100px;
+  height: 100px;
+  z-index: 9999;
+}
+
+.protect{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+}
+.download{
+  display: inline;
+  text-align: center;
+
+}
+.allow_print{
+  display: inline;
+}
+.toggle_menu{
+  display: inline;
+}
+.bbutton {
+    margin-bottom: 10px;
+}
+.bbutton-bottom {
+  margin-bottom: 10px;
+  
+}
+.wp_head_example,
+.native_style,
+.powr_point_style,
+.only_excel_viewer,
+.g_slides, {
+  text-align: center;
+  margin: 0 auto; 
+  padding-bottom: 20px;
+}
+.wp_head_example,
+.google_docs,
+.google_sheet,
+.native_style,
+.power_point_viewer,
+.only_excel,
+.word_style,
+.g_slides_styles,
+ h3 {
+  text-align: center;
+}
+
