@@ -735,6 +735,36 @@ body[data-elementor-device-mode=mobile] .jet-engine-gallery-grid.grid-col-mobile
 .jet-listing-dynamic-terms__link {
   display: inline-block;
 }
+
+.brxe-jet-engine-listing-dynamic-terms .jet-listing-dynamic-terms {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  gap: var(--je-terms-gap);
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: var(--je-terms-flex-direction, row);
+  flex-direction: var(--je-terms-flex-direction, row);
+  -webkit-box-align: var(--je-terms-align-items, center);
+  -ms-flex-align: var(--je-terms-align-items, center);
+  align-items: var(--je-terms-align-items, center);
+  -webkit-box-pack: var(--je-terms-justify-content);
+  -ms-flex-pack: var(--je-terms-justify-content);
+  justify-content: var(--je-terms-justify-content)
+}
+
+.brxe-jet-engine-listing-dynamic-terms .jet-listing-dynamic-terms__icon {
+  line-height: 1;
+  font-size: var(--je-terms-icon-fz);
+  color: var(--je-terms-icon-color)
+}
+
+.brxe-jet-engine-listing-dynamic-terms .jet-listing-dynamic-terms__icon :is(path), .brxe-jet-engine-listing-dynamic-terms .jet-listing-dynamic-terms__icon :is(svg) {
+  fill: var(--je-terms-icon-color)
+}
+
 .meta-layout-inline .jet-listing-dynamic-meta__item {
   display: inline-block;
   margin-left: 5px;
