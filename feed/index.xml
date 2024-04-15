@@ -12,13 +12,13 @@
 	<atom:link href="https://e-me.co/feed/" rel="self" type="application/rss+xml" />
 	<link>https://e-me.co/</link>
 	<description>Crecemos Ventas</description>
-	<lastBuildDate>Fri, 09 Feb 2024 14:49:04 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Apr 2024 21:30:36 +0000</lastBuildDate>
 	<language>es-CO</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.4.4</generator>
 
 <image>
 	<url>https://e-me.co/wp-content/uploads/2023/05/cropped-faviconweb1-32x32.png</url>
