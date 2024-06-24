@@ -1,4 +1,4 @@
-/*! elementor - v3.21.0 - 15-04-2024 */
+/*! elementor - v3.22.0 - 24-06-2024 */
 "use strict";
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["image-carousel"],{
 

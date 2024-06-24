@@ -682,7 +682,13 @@
 	border-color: #1F2226;
 	background: #1F2226;
 }
-
+.htslider-slider .slick-arrow svg {
+	height: auto;
+	width: 16px;
+}
+.htslider-slider .slick-arrow:hover svg path {
+	fill: #FFFFFF;
+}
 .htslider-slider .slick-dots {
 	position: absolute;
 	bottom: 0;
